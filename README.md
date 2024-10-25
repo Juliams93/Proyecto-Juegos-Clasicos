@@ -3,7 +3,7 @@
 ### Proyecto 1 
 (Este código es una optimización de un proyecto en grupo que hemos hecho para una clase de Adalab)
 
-<u>El juego del ahorcado:</u>
+<u>El juego del ahorcado:
 
 ¡Bienvenido al desafiante Juego del Ahorcado!
 
