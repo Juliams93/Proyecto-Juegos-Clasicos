@@ -1,6 +1,6 @@
-# Proyecto-Juegos-Clasicos
+# Proyecto-Juegos-Clásicos
 
-Proyecto 1 (Este código es una optimización de un proyecto en grupo que hemos hecho para una clase de Adalab)
+## Proyecto 1 (Este código es una optimización de un proyecto en grupo que hemos hecho para una clase de Adalab)
 
 El juego del ahorcado:
 
